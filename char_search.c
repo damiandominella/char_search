@@ -9,8 +9,8 @@ int search(char string[], char ch);
 /* Main function */
 int main() {
 
-    char string[] = "Uniurb";
-    char ch = 'r';
+    char string[] = "string";
+    char ch = 'n';
 
     int position = search(string, ch);
 
